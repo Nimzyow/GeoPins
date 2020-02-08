@@ -6,5 +6,6 @@ This is a full stack React application made entirely from scratch for the purpos
 
 ## Getting started
 
-`git clone https://github.com/Nimzyow/GeoPins.git`
-run `npm install` in GeoPins folder, change to client folder and run `npm install` again.
+`git clone https://github.com/Nimzyow/GeoPins.git`  
+run `npm install` in GeoPins folder  
+change to client folder and run `npm install` again.
